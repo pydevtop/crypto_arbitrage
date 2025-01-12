@@ -36,7 +36,7 @@ P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
 
 #### Install Python
 
-Detailed instructions on how to install Python on Windows: https://py-dev.top/en/installing-python
+Detailed instructions on how to install Python on Windows: https://py-dev.top/installing-python
 
 Go to the C drive folder:
 In the folder of drive C: unpack the archive scan_arbitrage.zip
@@ -51,7 +51,7 @@ After  click on the start.bat file
 System requirements: Windows 10/11, Python 3.x.x
 
 ## Buy Arbitrage scanner
-https://py-dev.top/en/application-software/crypto-arbitrage-scanner
+https://py-dev.top/application-software/crypto-arbitrage-scanner
 
 ## Contacts
 Telegram:  @morgan_sql<br>
