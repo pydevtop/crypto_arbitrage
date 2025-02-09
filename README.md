@@ -55,4 +55,4 @@ https://py-dev.top/application-software/crypto-arbitrage-scanner
 
 ## Contacts
 Telegram:  @morgan_sql<br>
-Telegram channel:  https://t.me/pydevtop
+
