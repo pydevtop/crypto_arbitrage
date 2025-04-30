@@ -2,7 +2,7 @@
 
 Crypto Tools for Cryptocurrency Trading and Analysis - Crypto arbitrage scanne
 
-<p align="center"><img width="400" src="https://py-dev.top/components/com_jshopping/files/img_products/full_thumb_ex650_scaner.png"></p>
+<p align="center"><img width="400" src="https://py-dev.top/components/com_jshopping/files/img_products/crypto_arbitrage_scanner.png"></p>
 
 ## Crypto arbitrage scanner
 
